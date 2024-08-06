@@ -65,5 +65,5 @@
 ## 🛠️ 기술 스택
 
 - **Java**: 애플리케이션의 주요 프로그래밍 언어
-- **JDBC (Java Database Connectivity)**: Java와 MySQL 간의 연결을 위한 라이브러리
+- **JDBC (Java Database Connectivity)**: Java와 DB 간의 연결을 위한 라이브러리
 - **Git**: 소스 코드 버전 관리 시스템
